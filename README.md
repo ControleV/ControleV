@@ -5,12 +5,6 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato curioso: Quero ter um repositório para CADA linguagem de programação hehe
 <br>
-<div>
-  <a href="https://github.com/ControleV" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ControleV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</div>
-
-<br>
 <strong>🐍 Linguagens que mais uso:</strong>
 <div style="display: inline_block">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
